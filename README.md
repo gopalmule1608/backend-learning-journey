@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Backend Learning Journey 🚀
 
@@ -49,3 +50,7 @@ LinkedIn: https://www.linkedin.com/in/gopal-mule-ba89233b1
 ---
 
 Learning, Practicing, and Building Every Day. 🚀
+=======
+# backend-learning-journey
+Learning backend development through lecture-wise coding, hands-on practice, assignments, and mini-projects.
+>>>>>>> bd378cab0c37f8d8d9ead6b80a090b8bc7ed4ef2
